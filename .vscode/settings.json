@@ -1,6 +1,7 @@
 {
     "cSpell.words": [
         "constexpr",
+        "noexcept",
         "Pimpl"
     ]
 }
